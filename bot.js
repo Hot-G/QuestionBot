@@ -82,4 +82,4 @@ client.on('messageReactionAdd', (reaction, user) => {
 
 });
 
-client.login('Nzg0ODU2OTMzNDU0MDUzMzk2.X8vY-g.UVuNjxa5QmBtm_glDTBhCvSqzEc');
+client.login('token');
