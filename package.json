@@ -1,0 +1,14 @@
+{
+  "name": "questionbot",
+  "version": "1.0.0",
+  "description": "This bot create a answers in your Images.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "G-hot",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
